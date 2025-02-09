@@ -1,2 +1,17 @@
-# ChatAssistant
-A Python-based chat assistant that processes natural language queries and retrieves data from an SQLite database. Built using Flask for the backend and Streamlit for the UI. Supports queries like employee details, department managers, and salary calculations. Handles errors gracefully and provides clear, formatted responses.
+# Chat Assistant for SQLite Database
+
+## 📌 Project Overview
+A Python-based chatbot that processes natural language queries and retrieves data from an SQLite database.
+
+## 🔧 Features
+- Fetch employee details based on department.
+- Identify managers of departments.
+- Calculate total salary expenses.
+- User-friendly Streamlit UI.
+
+## 🚀 How to Run Locally
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/yourusername/ChatAssistant.git
+cd ChatAssistant
+
